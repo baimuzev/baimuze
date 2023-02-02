@@ -1,0 +1,15 @@
+{
+    "name": "baimuze/development",
+    "description": "白沐泽自定义拓展",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baimuze"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": "^7.1|^8.0"
+    }
+}
